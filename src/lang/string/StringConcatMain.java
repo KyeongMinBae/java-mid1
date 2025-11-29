@@ -1,4 +1,4 @@
-package lang.String;
+package lang.string;
 
 public class StringConcatMain {
 
