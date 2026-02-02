@@ -1,4 +1,4 @@
-package exception.ex4.exception;
+package exception.ex4;
 
 import exception.ex4.NetworkClientV4;
 

@@ -1,6 +1,5 @@
 package exception.ex4;
 
-import exception.ex4.exception.NetworkServiceV4;
 import exception.ex4.exception.SendExceptionV4;
 
 import java.util.Scanner;
@@ -8,7 +7,8 @@ import java.util.Scanner;
 public class MainV4 {
 
     public static void main(String[] args)  {
-        NetworkServiceV4 networkService = new NetworkServiceV4();
+        //NetworkServiceV4 networkService = new NetworkServiceV4();
+        NetworkServiceV5 networkService = new NetworkServiceV5();
 
         Scanner scanner = new Scanner(System.in);
 
